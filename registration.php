@@ -167,14 +167,14 @@ try {
                     $mail->isSMTP();
                     $mail->Host = "smtp.gmail.com";
                     $mail->SMTPAuth = true;
-                    $mail->Username = "donotreplytoproficiencytesting@gmail.com";
-                    $mail->Password = "gfbj qlyw rncc yuqi";
+                    $mail->Username = "sample@gmail.com";
+                    $mail->Password = "sample";
                     $mail->SMTPSecure = "tls";
                     $mail->Port = 587;
-                    $mail->setFrom("donotreplytoproficiencytesting@gmail.com", "CMTI PTP");
+                    $mail->setFrom("sample@gmail.com", "CMTI PTP");
                     $mail->AddAddress($email);
                     $mail->isHTML(true);
-                    $mail->AddReplyTo("donotreplytoproficiencytesting@gmail.com", "CMTI PTP");
+                    $mail->AddReplyTo("sample@gmail.com", "CMTI PTP");
                     $mail->Subject = "CMTI PTP - User details";
                     $mail->Body = "<br><b> Hi $name,</b><br> You have successfully registered for Proficiency Testing.<br>Your Email ID is <b>$email</b> and Password is <b>$password</b>";
 
