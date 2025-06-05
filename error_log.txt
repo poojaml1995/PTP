@@ -1,0 +1,105 @@
+[10-May-2024 14:20:13 Asia/Kolkata] PHP Warning:  Undefined variable $conn in C:\wamp64\www\PTP\index.php on line 350
+[10-May-2024 14:20:13 Asia/Kolkata] PHP Stack trace:
+[10-May-2024 14:20:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\index.php:0
+[10-May-2024 15:10:56 Asia/Kolkata] PHP Warning:  Undefined variable $concc in C:\wamp64\www\PTP\index.php on line 351
+[10-May-2024 15:10:56 Asia/Kolkata] PHP Stack trace:
+[10-May-2024 15:10:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\index.php:0
+[10-Jun-2024 16:58:35 Asia/Kolkata] PHP Warning:  Undefined variable $conn in C:\wamp64\www\PTP\index.php on line 344
+[10-Jun-2024 16:58:35 Asia/Kolkata] PHP Stack trace:
+[10-Jun-2024 16:58:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\index.php:0
+[10-Jun-2024 16:58:35 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\index.php:344
+Stack trace:
+#0 C:\wamp64\www\PTP\index.php(344): mysqli_query(NULL, 'INSERT INTO con...')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\index.php on line 344
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[05-Jul-2024 15:09:21 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:21 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, 'mlpooja28@gmail...')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, '')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, '')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, '')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, '')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, '')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\PTP\login.php on line 113
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\login.php:0
+[05-Jul-2024 15:09:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\PTP\login.php:113
+Stack trace:
+#0 C:\wamp64\www\PTP\login.php(113): mysqli_real_escape_string(NULL, '')
+#1 {main}
+  thrown in C:\wamp64\www\PTP\login.php on line 113
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[24-Jan-2025 09:54:14 Asia/Kolkata] PHP Warning:  Undefined variable $name in C:\wamp64\www\PTP\forgot-password.php on line 145
+[24-Jan-2025 09:54:14 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2025 09:54:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\forgot-password.php:0
+[24-Jan-2025 09:54:26 Asia/Kolkata] PHP Warning:  Undefined variable $name in C:\wamp64\www\PTP\forgot-password.php on line 145
+[24-Jan-2025 09:54:26 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2025 09:54:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\forgot-password.php:0
+[24-Jan-2025 10:24:56 Asia/Kolkata] PHP Warning:  Undefined variable $name in C:\wamp64\www\PTP\forgot-password.php on line 145
+[24-Jan-2025 10:24:56 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2025 10:24:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\forgot-password.php:0
+[24-Jan-2025 11:36:51 Asia/Kolkata] PHP Warning:  Undefined variable $name in C:\wamp64\www\PTP\forgot-password.php on line 145
+[24-Jan-2025 11:36:51 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2025 11:36:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\forgot-password.php:0

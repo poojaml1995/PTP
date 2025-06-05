@@ -1,0 +1,69 @@
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: Invalid address:  (addAnAddress to): 
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[09-Jul-2024 11:15:27 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\PTP\user\profile.php on line 369
+[09-Jul-2024 11:15:27 Asia/Kolkata] PHP Stack trace:
+[09-Jul-2024 11:15:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\user\profile.php:0
+[09-Jul-2024 11:15:27 Asia/Kolkata] PHP   2. mysqli_connect($hostname = 'localhost', $username = 'root', $password = '', $database = 'ptp') C:\wamp64\www\PTP\user\profile.php:369
+[09-Jul-2024 11:15:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on bool in C:\wamp64\www\PTP\user\profile.php:371
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\PTP\user\profile.php on line 371
+[09-Jul-2024 11:15:31 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\PTP\user\profile.php on line 369
+[09-Jul-2024 11:15:31 Asia/Kolkata] PHP Stack trace:
+[09-Jul-2024 11:15:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\user\profile.php:0
+[09-Jul-2024 11:15:31 Asia/Kolkata] PHP   2. mysqli_connect($hostname = 'localhost', $username = 'root', $password = '', $database = 'ptp') C:\wamp64\www\PTP\user\profile.php:369
+[09-Jul-2024 11:15:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on bool in C:\wamp64\www\PTP\user\profile.php:371
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\PTP\user\profile.php on line 371
+[09-Jul-2024 11:15:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\PTP\user\profile.php on line 369
+[09-Jul-2024 11:15:52 Asia/Kolkata] PHP Stack trace:
+[09-Jul-2024 11:15:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\user\profile.php:0
+[09-Jul-2024 11:15:52 Asia/Kolkata] PHP   2. mysqli_connect($hostname = 'localhost', $username = 'root', $password = '', $database = 'ptp') C:\wamp64\www\PTP\user\profile.php:369
+[09-Jul-2024 11:15:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on bool in C:\wamp64\www\PTP\user\profile.php:371
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\PTP\user\profile.php on line 371
+[09-Jul-2024 11:16:08 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\PTP\user\profile.php on line 369
+[09-Jul-2024 11:16:08 Asia/Kolkata] PHP Stack trace:
+[09-Jul-2024 11:16:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\PTP\user\profile.php:0
+[09-Jul-2024 11:16:08 Asia/Kolkata] PHP   2. mysqli_connect($hostname = 'localhost', $username = 'root', $password = '', $database = 'ptp') C:\wamp64\www\PTP\user\profile.php:369
+[09-Jul-2024 11:16:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on bool in C:\wamp64\www\PTP\user\profile.php:371
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\PTP\user\profile.php on line 371
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Caught exception: SMTP Error: Could not authenticate.
+Caught exception: SMTP Error: Could not authenticate.
